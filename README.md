@@ -4,7 +4,7 @@ A simple authentication page with face recognition and face verification built w
 
 ## Demo
 
-- [Face Recognition Auth Repo](https://github.com/vatan-prakash/Face-Recognition-Website)
+- [Face Recognition Auth Repo](https://demo-mmsa2022.albertovalerio.com/)
 
 ## Features
 
